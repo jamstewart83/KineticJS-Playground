@@ -1,9 +1,9 @@
-KinectJS-Playground
+KineticJS-Playground
 ===================
 
-Playing about with KinectJS for canvas drawing.  If warranted I will document further, but this will mostly contain my findings as I develop my knowledge of the framework.
+Playing about with KineticJS for canvas drawing.  If warranted I will document further, but this will mostly contain my findings as I develop my knowledge of the framework.
 
-=========Why KinectJS?=============
+=========Why KineticJS?=============
 I looked at 3 other options open to me:
 	
 	1. Raphael
@@ -13,4 +13,4 @@ I looked at 3 other options open to me:
 	3. Native Canvas
 	While drawing something in canvas natively is an easy task mouse interaction is a different beast.  You need to bind your events to the canvas element and I dentify elements based on their positioning which would be an interesting project in the future but not something I wanted to pursue at this time.
 
-So after trying these others out I decided to go with KinectJS.  It had most of the base functionality I wanted as well as excellent documentation and examples.
+So after trying these others out I decided to go with KineticJS.  It had most of the base functionality I wanted as well as excellent documentation and examples.
